@@ -1,6 +1,6 @@
 # Strangers – Random Video Calling App
 
-This is a random video calling app built for Android using **WebRTC**, **Socket.IO**, and **Java**. The goal of the app is to connect strangers instantly through live video chat – similar to Omegle.
+This is a random video calling app built for Android using **WebRTC**,  **Java**. The goal of the app is to connect strangers instantly through live video chat – similar to Omegle.
 
 ## 🚀 Features
 - Randomly connect users for a video call
@@ -11,12 +11,8 @@ This is a random video calling app built for Android using **WebRTC**, **Socket.
 ## 🛠 Built With
 - Android Studio (Java)
 - WebRTC
-- Socket.IO
-- PeerJS (Optional)
+- PeerJS 
 - Git & GitHub
-
-## 📸 Screenshots
-(Add screenshots here if available)
 
 ## 📧 Want the Full Project Report?
 If you're interested in the **full project report**, feel free to **DM me** at:  
