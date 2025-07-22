@@ -33,4 +33,4 @@ This project is open source – feel free to use it as a learning tool or starti
 
 ---
 
-> Made with ❤️ by Mukta Avhad
+> Made with by Mukta Avhad
